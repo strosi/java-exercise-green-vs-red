@@ -1,6 +1,6 @@
 # Green vs. Red
 
-A small Java program that takes input from the console and creates grid with given dimention and elements with values either '1' (green) and '0' (red). According to the value of each element and its neighbors a new grid is created (called generation) considering the next rules:
+A small Java program that takes input from the console and creates grid with given dimention and elements with values either '1' (green) or '0' (red). According to the value of each element and its neighbors a new grid is created (called generation) considering the next rules:
 - If red element is surrounded by exactly 3 or 6 green elements it chages to green.
 - If green element is surrounded by exactly 2, 3 or 6 green elements it stays green.
 
