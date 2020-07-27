@@ -1,5 +1,3 @@
-package com.company;
-
 public class Cell {
     private char state;
     private char generatedState;
