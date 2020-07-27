@@ -1,5 +1,3 @@
-package com.company;
-
 public class Grid {
     private Cell[][] cells;
     private boolean isGenerationDifferent = false;
